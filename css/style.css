@@ -175,9 +175,10 @@ section {
     color: var(--brand);
 }
 
-.navbar-brand {
-    height: 100px;
-    width: 100px;
+.navbar-brand img {
+    max-height: 100px; /* adjust to preferred size */
+    height: auto;
+    width: auto;
 }
 
 .navbar-brand .dot {
