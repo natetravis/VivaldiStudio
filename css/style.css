@@ -98,14 +98,14 @@ section {
 }
 
 .slide1 {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/photography.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/photography.webp);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .slide2 {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/social-media.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/social-media-marketing.webp);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -229,7 +229,7 @@ text-align: center;}
 
 
 #milestone {
-    background: linear-gradient(90deg,rgba(5, 10, 48, 1) 6%, rgba(249, 79, 54, 1) 100%, rgba(119, 119, 121, 1) 100%), url(../img/content_manager.jpg);
+    background: linear-gradient(90deg,rgba(5, 10, 48, 1) 6%, rgba(249, 79, 54, 1) 100%, rgba(119, 119, 121, 1) 100%);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -297,64 +297,6 @@ text-align: center;}
     color: #fff;
 }
 
-
-#reviews {
-
-    background: linear-gradient(-90deg, rgba(8, 32, 50, 0.8), rgba(8, 32, 50, 0.8)), url(../img/bg_banner1.jpg), #082032;;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-.review {
-    text-align: center;
-    z-index: 2;
-    position: relative;
-    margin: 15px;
-    max-width: 768px;
-    margin: auto;
-}
-
-.review .bxs-quote-alt-left {
-    font-size: 120px;
-    position: absolute;
-    opacity: 0.1;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    color: #fff;
-}
-
-.review img {
-    width: 80px !important;
-    height: 80px;
-    border-radius: 100px;
-    margin: auto;
-}
-
-.review h5 {
-    margin-top: 16px;
-    margin-bottom: 4px;
-    color: #fff;
-}
-
-.review h3 {
-    margin-top: 26px;
-    margin-bottom: 26px;
-    font-size: 22px;
-    color: #fff;
-    font-weight: 400;
-    line-height: 1.7;
-}
-
-.review small {
-    color: var(--brand);
-}
-
-.review .stars {
-    color: var(--brand);
-}
-
 .whatsapp-float {
     position: fixed;
     width: 60px;
@@ -394,7 +336,7 @@ text-align: center;}
 }
 
 footer {
-    background: linear-gradient(0deg, rgba(8, 32, 50, 0.9), rgba(8, 32, 50, 0.9)), url(../img/31958.jpg), #082032;;
+    background: linear-gradient(0deg, rgba(8, 32, 50, 0.9), rgba(8, 32, 50, 0.9)), url(../img/31958.webp), #082032;;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
